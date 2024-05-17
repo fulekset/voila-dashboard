@@ -1,0 +1,7 @@
+voila
+pandas
+numpy
+plotly
+plotly.graph_objects
+bokeh
+json
