@@ -1,7 +1,9 @@
 voila
 pandas
 numpy
-plotly
 matplotlib
 itables
 dask
+plotly>=5.0.0
+voila
+
