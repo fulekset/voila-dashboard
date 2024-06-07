@@ -2,8 +2,6 @@ voila
 pandas
 numpy
 plotly
-bokeh
 matplotlib
-json
 itables
 dask
