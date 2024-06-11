@@ -4,6 +4,6 @@ numpy
 matplotlib
 itables
 dask
-plotly>=5.0.0
+plotly==5.22.0
 voila
 jupyterlab
