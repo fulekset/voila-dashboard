@@ -6,4 +6,4 @@ itables
 dask
 plotly>=5.0.0
 voila
-
+jupyterlab
