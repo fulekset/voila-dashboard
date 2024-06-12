@@ -1,4 +1,4 @@
-voila
+voila==0.5.6
 pandas
 numpy
 matplotlib
