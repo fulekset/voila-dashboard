@@ -1,10 +1,9 @@
 voila==0.5.6
-pandas
-numpy
-matplotlib
-itables
-dask
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+itables==2.0.1
+dask==2024.5.0
 plotly==5.22.0
-voila
-jupyterlab
-jupyter
+jupyterlab==4.1.8
+jupyter==1.0.0
