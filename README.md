@@ -14,3 +14,5 @@ Tento repozitár obsahuje Voila dashboard.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard/main?labpath=https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard%2Fblob%2Fmain%2FIRWS_BOX_PLOT%2520Y_PRG_AP.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard/main?labpath=https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard%2Fblob%2Fmain%2FIRWS_BOX_PLOT%2520Y_PRG_AP_2.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fulekset/voila-dashboard/tree/main/main?urlpath=https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard%2Fblob%2F570338300601d314b17f34a9807a88d6f39dd764%2FTESLA.ipynb)
