@@ -20,3 +20,5 @@ Tento repozitár obsahuje Voila dashboard.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard/main?labpath=Indexy.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard/main?labpath=MLBEVO_F-608161_DATA.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Ffulekset%2Fvoila-dashboard/main?labpath=AUDI_TEST_20PC.ipynb)
